@@ -1,11 +1,8 @@
-import Componente1 from './components/ej2/Componente1'
-import './css/anidados.css'
-
-// import Tabla from './components/ej5/Tabla'
-// import './css/tabla.css'
+import Padre from './components/ej3/Padre'
+import './css/padrehijo.css'
 
 const App = () => {
-  return <Componente1 />
+  return <Padre />
 }
 
 export default App

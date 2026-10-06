@@ -1,0 +1,18 @@
+.padre {
+  background: #5b9bd5;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+.hijo {
+  background: #ffc000;
+  padding: 15px;
+  margin-top: 15px;
+}
+.hijo input {
+  padding: 6px;
+  margin-right: 8px;
+}
+.hijo button {
+  padding: 6px 12px;
+  cursor: pointer;
+}
