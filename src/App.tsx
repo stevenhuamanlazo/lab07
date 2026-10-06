@@ -1,8 +1,18 @@
-import Padre from './components/ej4/Padre'
-import './css/hermanos.css'
+import Cabecera from './components/ej1/Cabecera'
+import Navegacion from './components/ej1/Navegacion'
+import Seccion from './components/ej1/Seccion'
+import Pie from './components/ej1/Pie'
+import './css/layout.css'
 
 const App = () => {
-  return <Padre />
+  return (
+    <>
+      <Cabecera />
+      <Navegacion />
+      <Seccion />
+      <Pie />
+    </>
+  )
 }
 
 export default App
