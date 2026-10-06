@@ -1,0 +1,22 @@
+.c1 { background: #5b9bd5; padding: 20px; }
+.c2 { background: #ffc000; padding: 20px; margin-left: 30px; }
+.c3 { background: #548235; padding: 20px; margin-left: 30px; }
+.c4 { background: #ffff00; padding: 20px; margin-left: 30px; }
+
+.etiqueta {
+  margin: 0 0 8px 0;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  background: #fff;
+  border: 1px solid #999;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  padding: 15px;
+  max-width: 250px;
+  font-family: Arial, sans-serif;
+}
+.card h3 { margin: 0 0 8px 0; }
+.card p { margin: 4px 0; }

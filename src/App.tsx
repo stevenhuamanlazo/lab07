@@ -1,8 +1,11 @@
-import Tabla from './components/ej5/Tabla'
-import './css/tabla.css'
+import Componente1 from './components/ej2/Componente1'
+import './css/anidados.css'
+
+// import Tabla from './components/ej5/Tabla'
+// import './css/tabla.css'
 
 const App = () => {
-  return <Tabla />
+  return <Componente1 />
 }
 
 export default App
