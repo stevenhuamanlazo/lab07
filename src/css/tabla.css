@@ -1,0 +1,13 @@
+.tabla {
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+.tabla th {
+  background: #ff7f50;
+  padding: 6px 12px;
+}
+.tabla td {
+  border: 1px solid #ff7f50;
+  padding: 6px 12px;
+}
