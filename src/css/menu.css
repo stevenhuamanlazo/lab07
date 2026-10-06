@@ -1,0 +1,23 @@
+.menu {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 10px;
+  background: #1f2937;
+  font-family: Arial, sans-serif;
+}
+.menu button {
+  padding: 8px 14px;
+  border: none;
+  border-radius: 6px;
+  background: #e5e7eb;
+  cursor: pointer;
+  font-weight: bold;
+}
+.menu button.activo {
+  background: #ff7f50;
+  color: #fff;
+}
+.vista {
+  padding: 10px;
+}

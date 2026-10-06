@@ -1,9 +1,9 @@
-* {
+.ej1,
+.ej1 * {
   box-sizing: border-box;
 }
 
-body {
-  margin: 0;
+.ej1 {
   padding: 10px;
   font-family: 'Courier New', monospace;
   font-weight: bold;
@@ -100,7 +100,7 @@ body {
 
 /* ===== MÓVIL (hasta 600px) ===== */
 @media (max-width: 600px) {
-  body {
+  .ej1 {
     padding: 5px;
     font-size: 11px;
   }
